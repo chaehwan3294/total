@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/total/static/css/main.9074dbf9.css",
+    "main.js": "/total/static/js/main.32cfa66f.js",
+    "static/js/787.f6fde627.chunk.js": "/total/static/js/787.f6fde627.chunk.js",
+    "static/media/Broadcast_Matter.ttf": "/total/static/media/Broadcast_Matter.13a815b89dcb7ddf0fd3.ttf",
+    "static/media/ImperialScript-Regular.ttf": "/total/static/media/ImperialScript-Regular.7b06a92321f55501913e.ttf",
+    "index.html": "/total/index.html",
+    "main.9074dbf9.css.map": "/total/static/css/main.9074dbf9.css.map",
+    "main.32cfa66f.js.map": "/total/static/js/main.32cfa66f.js.map",
+    "787.f6fde627.chunk.js.map": "/total/static/js/787.f6fde627.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9074dbf9.css",
+    "static/js/main.32cfa66f.js"
+  ]
+}
