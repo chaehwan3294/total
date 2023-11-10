@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/total/static/css/main.3838ba45.css",
-    "main.js": "/total/static/js/main.fa95a50c.js",
+    "main.js": "/total/static/js/main.998bfba1.js",
     "static/js/787.f6fde627.chunk.js": "/total/static/js/787.f6fde627.chunk.js",
     "static/media/KCC-Murukmuruk.ttf": "/total/static/media/KCC-Murukmuruk.b7b197446ee1971160f7.ttf",
     "static/media/NEXON_Lv2_Gothic_Medium.ttf": "/total/static/media/NEXON_Lv2_Gothic_Medium.f5bb02c17fe381cd4ac8.ttf",
@@ -9,11 +9,11 @@
     "static/media/NEXON_Lv2_Gothic_Bold.ttf": "/total/static/media/NEXON_Lv2_Gothic_Bold.3d6bbf097f3179c6c10e.ttf",
     "index.html": "/total/index.html",
     "main.3838ba45.css.map": "/total/static/css/main.3838ba45.css.map",
-    "main.fa95a50c.js.map": "/total/static/js/main.fa95a50c.js.map",
+    "main.998bfba1.js.map": "/total/static/js/main.998bfba1.js.map",
     "787.f6fde627.chunk.js.map": "/total/static/js/787.f6fde627.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3838ba45.css",
-    "static/js/main.fa95a50c.js"
+    "static/js/main.998bfba1.js"
   ]
 }
