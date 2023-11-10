@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/total/static/css/main.9074dbf9.css",
-    "main.js": "/total/static/js/main.32cfa66f.js",
+    "main.css": "/total/static/css/main.3838ba45.css",
+    "main.js": "/total/static/js/main.fa95a50c.js",
     "static/js/787.f6fde627.chunk.js": "/total/static/js/787.f6fde627.chunk.js",
-    "static/media/Broadcast_Matter.ttf": "/total/static/media/Broadcast_Matter.13a815b89dcb7ddf0fd3.ttf",
-    "static/media/ImperialScript-Regular.ttf": "/total/static/media/ImperialScript-Regular.7b06a92321f55501913e.ttf",
+    "static/media/KCC-Murukmuruk.ttf": "/total/static/media/KCC-Murukmuruk.b7b197446ee1971160f7.ttf",
+    "static/media/NEXON_Lv2_Gothic_Medium.ttf": "/total/static/media/NEXON_Lv2_Gothic_Medium.f5bb02c17fe381cd4ac8.ttf",
+    "static/media/NEXON_Lv2_Gothic_Light.ttf": "/total/static/media/NEXON_Lv2_Gothic_Light.d16d2b3528bdcc889b0c.ttf",
+    "static/media/NEXON_Lv2_Gothic_Bold.ttf": "/total/static/media/NEXON_Lv2_Gothic_Bold.3d6bbf097f3179c6c10e.ttf",
     "index.html": "/total/index.html",
-    "main.9074dbf9.css.map": "/total/static/css/main.9074dbf9.css.map",
-    "main.32cfa66f.js.map": "/total/static/js/main.32cfa66f.js.map",
+    "main.3838ba45.css.map": "/total/static/css/main.3838ba45.css.map",
+    "main.fa95a50c.js.map": "/total/static/js/main.fa95a50c.js.map",
     "787.f6fde627.chunk.js.map": "/total/static/js/787.f6fde627.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9074dbf9.css",
-    "static/js/main.32cfa66f.js"
+    "static/css/main.3838ba45.css",
+    "static/js/main.fa95a50c.js"
   ]
 }
