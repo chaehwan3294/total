@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/total/static/css/main.a780aee8.css",
-    "main.js": "/total/static/js/main.0d9609b3.js",
+    "main.css": "/total/static/css/main.5b4356e9.css",
+    "main.js": "/total/static/js/main.d59c4a9f.js",
     "static/js/787.f6fde627.chunk.js": "/total/static/js/787.f6fde627.chunk.js",
     "static/media/KCC-Murukmuruk.ttf": "/total/static/media/KCC-Murukmuruk.b7b197446ee1971160f7.ttf",
     "static/media/NEXON_Lv2_Gothic_Medium.ttf": "/total/static/media/NEXON_Lv2_Gothic_Medium.f5bb02c17fe381cd4ac8.ttf",
     "static/media/NEXON_Lv2_Gothic_Light.ttf": "/total/static/media/NEXON_Lv2_Gothic_Light.d16d2b3528bdcc889b0c.ttf",
     "static/media/NEXON_Lv2_Gothic_Bold.ttf": "/total/static/media/NEXON_Lv2_Gothic_Bold.3d6bbf097f3179c6c10e.ttf",
     "index.html": "/total/index.html",
-    "main.a780aee8.css.map": "/total/static/css/main.a780aee8.css.map",
-    "main.0d9609b3.js.map": "/total/static/js/main.0d9609b3.js.map",
+    "main.5b4356e9.css.map": "/total/static/css/main.5b4356e9.css.map",
+    "main.d59c4a9f.js.map": "/total/static/js/main.d59c4a9f.js.map",
     "787.f6fde627.chunk.js.map": "/total/static/js/787.f6fde627.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a780aee8.css",
-    "static/js/main.0d9609b3.js"
+    "static/css/main.5b4356e9.css",
+    "static/js/main.d59c4a9f.js"
   ]
 }
